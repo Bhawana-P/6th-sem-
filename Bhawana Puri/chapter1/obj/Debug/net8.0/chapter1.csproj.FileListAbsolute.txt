@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\bin\Debug\net8.0\chapter1.exe
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\bin\Debug\net8.0\chapter1.deps.json
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\bin\Debug\net8.0\chapter1.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\bin\Debug\net8.0\chapter1.dll
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\bin\Debug\net8.0\chapter1.pdb
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\obj\Debug\net8.0\chapter1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\obj\Debug\net8.0\chapter1.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\obj\Debug\net8.0\chapter1.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\obj\Debug\net8.0\chapter1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\obj\Debug\net8.0\chapter1.dll
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\obj\Debug\net8.0\refint\chapter1.dll
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\obj\Debug\net8.0\chapter1.pdb
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\obj\Debug\net8.0\chapter1.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\Bhawana Puri\chapter1\obj\Debug\net8.0\ref\chapter1.dll
