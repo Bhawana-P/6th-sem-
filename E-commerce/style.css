@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    padding: 0;
+  }
+  
+  .box{
+    border: 1px solid red;
+    min-height: 98vh;
+    margin:6px;
+  }
+  
+  .box2{
+    border-radius: 25px;
+    border: 1px solid blue;
+    min-height:95vh ;
+    margin:7px;
+  }
+  .header{
+    border-radius: 25px 25px 30px 0px;
+    border: 1px solid blue;
+    height: 90px;
+    background-color: rgb(88, 36, 68) ;
+  }
+  
+  .header img{
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+  
+  .header{
+    display: flex;
+  }
+  .main{
+    border-radius: 0px 20px 20px 0px ;
+    padding-top: 25px;
+   border: 1px solid blue;
+   min-height: 65vh;
+   width:25%;
+   text-align:center;
+  }
+  
+  .footer{
+    border-radius: 0px 0px 25px 25px;
+    border:1px solid blue;
+    min-height: 12vh;
+  }
+  
+  li{
+    list-style: none;
+  }
